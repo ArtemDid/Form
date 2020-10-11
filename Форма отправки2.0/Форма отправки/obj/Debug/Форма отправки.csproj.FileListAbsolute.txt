@@ -1,0 +1,19 @@
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\bin\Debug\Форма отправки.exe.config
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\bin\Debug\Форма отправки.exe
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\bin\Debug\Форма отправки.pdb
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки.csprojAssemblyReference.cache
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\MainWindow.g.cs
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Registration.g.cs
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Window2.g.cs
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\App.g.cs
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки_MarkupCompile.cache
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки_MarkupCompile.lref
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\MainWindow.baml
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Registration.baml
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Window2.baml
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки.g.resources
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма_отправки.Properties.Resources.resources
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки.csproj.GenerateResource.cache
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки.csproj.CoreCompileInputs.cache
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки.exe
+C:\Users\Tema\Desktop\Форма отправки2.0\Форма отправки\obj\Debug\Форма отправки.pdb

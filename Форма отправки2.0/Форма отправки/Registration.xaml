@@ -1,0 +1,19 @@
+﻿<Window x:Class="Форма_отправки.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Форма_отправки"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="400" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFC5BA20">
+        <TextBox x:Name="textBoxLogin" HorizontalAlignment="Left" Height="25" Margin="175,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14"/>
+        <Button x:Name="RegistrButton" Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="100,250,0,0" VerticalAlignment="Top" Width="195" Click="button_Click" FontWeight="Bold" FontSize="14" Height="40"/>
+        <TextBox x:Name="textBoxName" HorizontalAlignment="Left" Height="25" Margin="175,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14"/>
+        <Label x:Name="label" Content="Имя" HorizontalAlignment="Left" Margin="100,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.546,-0.632" Width="44" FontWeight="Bold" FontSize="14"/>
+        <Label x:Name="label1" Content="Логин" HorizontalAlignment="Left" Margin="100,125,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.097,0.405" FontWeight="Bold" FontSize="14"/>
+        <Label x:Name="label2" Content="Пароль" HorizontalAlignment="Left" Margin="100,175,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.027,-0.256" FontWeight="Bold" FontSize="14"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="175,175,0,0" VerticalAlignment="Top" Width="120" Height="25"/>
+
+    </Grid>
+</Window>
